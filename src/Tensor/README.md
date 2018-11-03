@@ -1,5 +1,5 @@
 # Tensor
-Create fixed-size Tensor
+Create fixed-size vector , matrix and tensor with any dimension。
 
 ## API
 ```Lua
